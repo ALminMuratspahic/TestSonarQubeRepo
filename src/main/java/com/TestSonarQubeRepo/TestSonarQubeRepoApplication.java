@@ -1,13 +1,13 @@
-package com.TestSonarQubeAn;
+package com.TestSonarQubeRepo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestSonarQubeAnApplication {
+public class TestSonarQubeRepoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestSonarQubeAnApplication.class, args);
+		SpringApplication.run(TestSonarQubeRepoApplication.class, args);
 	}
 
 }

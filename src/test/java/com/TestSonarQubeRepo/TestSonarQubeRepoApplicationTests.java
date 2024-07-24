@@ -1,10 +1,10 @@
-package com.TestSonarQubeAn;
+package com.TestSonarQubeRepo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestSonarQubeAnApplicationTests {
+class TestSonarQubeRepoApplicationTests {
 
 	@Test
 	void contextLoads() {
