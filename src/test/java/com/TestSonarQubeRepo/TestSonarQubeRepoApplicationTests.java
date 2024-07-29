@@ -9,7 +9,7 @@ class TestSonarQubeRepoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("test case");
+		System.out.println("test caseee");
 	}
 
 }
